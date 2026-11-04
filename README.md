@@ -60,6 +60,7 @@ python fortnite_loop_bot.py
 
 - `START_QCB_TOKEN_TOOL.bat` - opens the tool as administrator
 - `fortnite_loop_bot.py` - the program
+- `logo.png` - the picture shown at the bottom of this page
 - `setup/SETUP.bat` - one-time installer
 - `setup/run_with_console.bat` - opens the tool with a console that shows errors
 - `setup/requirements.txt` - the Python libraries it needs
@@ -69,5 +70,5 @@ python fortnite_loop_bot.py
 Made by **-gy**.
 
 <p align="center">
-  <img src="setup/logo.png" width="240" alt="QCB Token Tool logo">
+  <img src="logo.png" width="240" alt="QCB Token Tool logo">
 </p>
